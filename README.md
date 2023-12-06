@@ -5,8 +5,11 @@ Este repositório contém o código para a "Atividade Prática - Login ", uma ta
 
 # Sobre o Projeto
 O projeto é focado na criação de uma página de login para um sistema de gerenciamento de recados, integrando um formulário com campos para usuário e senha, e botões para ações de login e cadastro. A ênfase está em conectar a interface com a API existente, permitindo a autenticação de usuários. Além disso, o projeto inclui a implementação de um sistema para manter a sessão do usuário após o login, utilizando localStorage, e medidas para assegurar que apenas usuários autenticados acessem suas respectivas informações de recados.
+<br>
 OS SEGUINTES REPOSITÓRIOS DEVEM SER ANALISADOS EM CONJUNTO:
+<br>
 https://github.com/Dragoniii/42-front-login-api
+<br>
 https://github.com/Dragoniii/43-back-api-testes
 
 # Como Usar
